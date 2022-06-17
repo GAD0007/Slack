@@ -1,4 +1,5 @@
-body{box-sizing: ;}
+body{box-sizing: ;
+}
 section.A{background-color: #1F2937;
 padding: 60px 60px 80px 60px;}
 h1{font-size: 24px;
@@ -18,7 +19,7 @@ border-radius: 5px;
 color: #E5E7EB;
 text-decoration: none;}
 
-img.logo-2{max-width: 300px;
+img.logo-2{max-width: 250px;
 min-width: 200px;
 max-height: 250px;
 min-height: 150px;}
@@ -31,4 +32,19 @@ div.links{position: absolute;
     div.free{position: absolute;
         left: 850px;
     bottom:150px}
-    
+    section.B{background-color:white;
+        padding: 60px 20px 50px 60px;
+    overflow: auto;}
+    div.catalogue{}
+    h2{text-align: center;}
+    img.cars{max-width: 200px;
+        min-width: 150px;
+        max-height: 250px;
+        min-height: 150px;
+     }
+   figure.F{float: left; text-align: center;}
+   figcaption{font-style: italic;}
+   
+   
+    section.C{padding: 60px 30px 80px 30px;
+    }
