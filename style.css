@@ -1,5 +1,5 @@
 body{box-sizing: ;
-}
+background-color: beige;}
 section.A{background-color: #1F2937;
 padding: 60px 60px 80px 60px;}
 h1{font-size: 24px;
@@ -15,6 +15,7 @@ p.info{font-size: 18px;
 color: #E5E7EB;}
 a.one{background-color: blue;
 padding: 10px;
+margin-top: o.5em;
 border-radius: 5px;
 color: #E5E7EB;
 text-decoration: none;}
@@ -33,7 +34,7 @@ div.links{position: absolute;
         left: 850px;
     bottom:150px}
     section.B{background-color:white;
-        padding: 60px 20px 50px 60px;
+        padding: 30px 20px 50px 60px;
     overflow: auto;}
     div.catalogue{}
     h2{text-align: center;}
@@ -42,9 +43,29 @@ div.links{position: absolute;
         max-height: 250px;
         min-height: 150px;
      }
-   figure.F{float: left; text-align: center;}
-   figcaption{font-style: italic;}
-   
+   figure.F{float: left;
+     text-align: center;}
+   figcaption{font-style: italic;
+padding-top: 5px;
+background-color: #1F2937;
+color: #E5E7EB;
+font-weight: bolder;
+font-size: 18px;}
+section.D{background-color: #E5E7EB;}
+div.sign-up{background-color: blue; ;}   
    
     section.C{padding: 60px 30px 80px 30px;
-    }
+    background-color: #E5E7EB; 
+    color: #1F2937;
+
+     overflow: auto;}
+     p.quote{font-size: 36px; 
+    font-style: italic; 
+color: #1F2937
+;text-align: center;}
+p.author{text-align: right;
+     font-size: 36px;
+    font-weight: bolder;}
+    section.D{background-color: #E5E7EB;}
+div.sign-up{background-color: blue; ;}   
+   
