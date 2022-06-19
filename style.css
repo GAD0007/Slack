@@ -14,8 +14,8 @@ color: #f9faf8;  }
 p.info{font-size: 18px;
 color: #E5E7EB;}
 a.one{background-color: blue;
-padding: 10px;
-margin-top: o.5em;
+padding: 5px;
+margin-top: 2em;
 border-radius: 5px;
 color: #E5E7EB;
 text-decoration: none;}
@@ -54,7 +54,7 @@ font-size: 18px;}
 section.D{background-color: #E5E7EB;}
 div.sign-up{background-color: blue; ;}   
    
-    section.C{padding: 60px 30px 80px 30px;
+    section.C{padding: 60px 30px 55px 30px;
     background-color: #E5E7EB; 
     color: #1F2937;
 
