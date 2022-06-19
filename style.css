@@ -66,6 +66,14 @@ color: #1F2937
 p.author{text-align: right;
      font-size: 36px;
     font-weight: bolder;}
-    section.D{background-color: #E5E7EB;}
-div.sign-up{background-color: blue; ;}   
+    section.D{background-color: #E5E7EB; 
+        padding-left: 100px;
+    padding-right: 100px;}
+div.sign-up{background-color: blue; 
+    padding-left :80px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    border-radius:10px }    
+    #last{ text-align: right ;}
    
