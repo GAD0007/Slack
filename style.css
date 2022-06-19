@@ -68,12 +68,31 @@ p.author{text-align: right;
     font-weight: bolder;}
     section.D{background-color: #E5E7EB; 
         padding-left: 100px;
-    padding-right: 100px;}
+    padding-right: 100px;
+    padding-bottom: 80px;
+overflow: auto;}
 div.sign-up{background-color: blue; 
     padding-left :80px;
     padding-right: 40px;
     padding-top: 5px;
-    padding-bottom: 2px;
-    border-radius:10px }    
-    #last{ text-align: right ;}
+    padding-bottom: 4px;
+    border-radius:10px }  
+    p.action{font-size: 20px;
+    color:white;
+font-family: 'Times New Roman', Times, serif;}  
+    span.small{ color:#E5E7EB ;  }
+    span.last{position: absolute;
+    left: 1000px;
+    padding: 3px;
+border: white;
+border-style: solid;
+border-radius: 10px;}
+section.E{overflow: auto; 
+    background-color: black;}
+p.copyright{text-align: center;
+background-color: black;
+color: #E5E7EB;
+overflow: auto;
+padding-top: 10px;
+padding-bottom: 10px;}
    
