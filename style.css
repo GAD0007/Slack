@@ -13,8 +13,17 @@ font-weight: bolder;
 color: #f9faf8;  }
 p.info{font-size: 18px;
 color: #E5E7EB;}
+nav{display:flex;
+    color: #f9faf8;
+}
+nav > .navi{margin-right: 700px;
+font-weight: bolder;
+font-size: 24px;
+margin-bottom: 5px;}
+nav >.navigator{margin-right: 7px;}
+li{display: inline-block}
 a.one{background-color: blue;
-padding: 5px;
+padding: 10px;
 margin-top: 2em;
 border-radius: 5px;
 color: #E5E7EB;
@@ -24,19 +33,16 @@ img.logo-2{max-width: 250px;
 min-width: 200px;
 max-height: 250px;
 min-height: 150px;}
-li{display: inline-block;}
-div.links{position: absolute;
-    left: 850px;
-    bottom:450px}
+
     a{color: #E5E7EB;
     text-decoration: none;}
     div.free{position: absolute;
         left: 850px;
-    bottom:150px}
+    bottom:230px}
     section.B{background-color:white;
         padding: 30px 20px 50px 60px;
     overflow: auto;}
-    div.catalogue{}
+    div.catalogue{margin-left: 50px;}
     h2{text-align: center;}
     img.cars{max-width: 200px;
         min-width: 150px;
