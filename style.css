@@ -1,7 +1,8 @@
 body{box-sizing: ;
-background-color: beige;}
+background-color: #1F2937;}
 section.A{background-color: #1F2937;
-padding: 60px 60px 80px 60px;}
+padding: 60px 60px 80px 60px;
+overflow:auto ;}
 h1{font-size: 24px;
 color: #f9faf8;}
 img.header-logo{max-width: 250px;
@@ -11,7 +12,8 @@ min-height: 150px;}
 span.intro{font-size: 48px;
 font-weight: bolder;
 color: #f9faf8;  }
-p.info{font-size: 18px;
+span.message{
+    font-size: 18px;
 color: #E5E7EB;}
 nav{display:flex;
     color: #f9faf8;
@@ -41,7 +43,7 @@ min-height: 150px;}
     bottom:230px}
     section.B{background-color:white;
         padding: 30px 20px 50px 60px;
-    overflow: auto;}
+    overflow:auto;}
     div.catalogue{margin-left: 50px;}
     h2{text-align: center;}
     img.cars{max-width: 200px;
@@ -57,7 +59,8 @@ background-color: #1F2937;
 color: #E5E7EB;
 font-weight: bolder;
 font-size: 18px;}
-section.D{background-color: #E5E7EB;}
+section.D{background-color: #E5E7EB;
+}
 div.sign-up{background-color: blue; ;}   
    
     section.C{padding: 60px 30px 55px 30px;
@@ -101,4 +104,20 @@ color: #E5E7EB;
 overflow: auto;
 padding-top: 10px;
 padding-bottom: 10px;}
-   
+form{padding-top: 30px;}
+body.sign-up-page{background-image: url('./LOGO/backkk.jpg');
+background-size:cover;
+background-repeat: no-repeat;
+width:;
+height: 100vh;}
+fieldset{position: relative;
+top: 100px; text-align: center;color: #E5E7EB;font-weight: bolder ;font-size: 30px;}
+button{width: 80px;
+height: 40px;
+font-size: large;
+font-weight: bolder;}
+legend{font-size: 40px;
+}
+nav.two{font-size: 25px;
+font-weight: bolder;
+margin: 80px;}
