@@ -110,7 +110,7 @@ background-size:cover;
 background-repeat: no-repeat;
 width:;
 height: 100vh;}
-fieldset{position: relative;
+form{position: relative;
 top: 100px; text-align: center;color: #E5E7EB;font-weight: bolder ;font-size: 30px;}
 button{width: 80px;
 height: 40px;
@@ -118,6 +118,7 @@ font-size: large;
 font-weight: bolder;}
 legend{font-size: 40px;
 }
-nav.two{font-size: 25px;
+nav.two{font-size: 20px;
 font-weight: bolder;
 margin: 80px;}
+body.contact{background-color: rgb(29, 34, 34); }
